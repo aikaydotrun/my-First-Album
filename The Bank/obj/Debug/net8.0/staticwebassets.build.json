@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4VRD0ofApCtkHJsu6IQxS9bIaGch+C8u6iInO53JBqg=",
+  "Source": "TheBank",
+  "BasePath": "_content/TheBank",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
