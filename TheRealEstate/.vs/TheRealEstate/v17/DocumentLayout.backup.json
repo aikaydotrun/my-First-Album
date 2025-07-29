@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\models\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:models\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\models\\dtos\\agentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:models\\dtos\\agentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\models\\dtos\\agentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:models\\dtos\\agentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\services\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:services\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\models\\dtos\\createpropertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:models\\dtos\\createpropertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\controllers\\priceestimatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:controllers\\priceestimatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\services\\priceestimateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:services\\priceestimateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\services\\ipriceestimateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:services\\ipriceestimateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\models\\dtos\\priceestimaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:models\\dtos\\priceestimaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\models\\entities\\priceestimaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:models\\entities\\priceestimaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\models\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:models\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\services\\agentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:services\\agentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\services\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:services\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\models\\entities\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:models\\entities\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\migrations\\20250723035047_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:migrations\\20250723035047_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\therealestate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:therealestate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|c:\\users\\dell\\source\\repos\\therealestate\\models\\entities\\priceestimateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64678571-B454-44A9-B733-876475893B01}|TheRealEstate.csproj|solutionrelative:models\\entities\\priceestimateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgentDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\DTOs\\AgentDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\AgentDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\DTOs\\AgentDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\AgentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T21:05:35.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PriceEstimateRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\DTOs\\PriceEstimateRequestDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\PriceEstimateRequestDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\DTOs\\PriceEstimateRequestDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\PriceEstimateRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:54:36.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Services\\PropertyService.cs",
+              "RelativeDocumentMoniker": "Services\\PropertyService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Services\\PropertyService.cs",
+              "RelativeToolTip": "Services\\PropertyService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAlwC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:40:24.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:45:08.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PropertyController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "Controllers\\PropertyController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvxQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:44:06.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropertyDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\DTOs\\PropertyDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\PropertyDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\DTOs\\PropertyDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\PropertyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:36:52.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Services\\IPropertyService.cs",
+              "RelativeDocumentMoniker": "Services\\IPropertyService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Services\\IPropertyService.cs",
+              "RelativeToolTip": "Services\\IPropertyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:39:08.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\DTOs\\AgentCreateDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\AgentCreateDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\DTOs\\AgentCreateDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\AgentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:15:53.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatePropertyDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\DTOs\\CreatePropertyDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\CreatePropertyDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\DTOs\\CreatePropertyDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\CreatePropertyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:46:31.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPriceEstimateService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Services\\IPriceEstimateService.cs",
+              "RelativeDocumentMoniker": "Services\\IPriceEstimateService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Services\\IPriceEstimateService.cs",
+              "RelativeToolTip": "Services\\IPriceEstimateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:55:36.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PriceEstimateService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Services\\PriceEstimateService.cs",
+              "RelativeDocumentMoniker": "Services\\PriceEstimateService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Services\\PriceEstimateService.cs",
+              "RelativeToolTip": "Services\\PriceEstimateService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:59:27.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PriceEstimateController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Controllers\\PriceEstimateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PriceEstimateController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Controllers\\PriceEstimateController.cs",
+              "RelativeToolTip": "Controllers\\PriceEstimateController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:07:41.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T11:23:53.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PriceEstimateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\Entities\\PriceEstimateRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\PriceEstimateRequest.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\Entities\\PriceEstimateRequest.cs",
+              "RelativeToolTip": "Models\\Entities\\PriceEstimateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:16:06.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\Entities\\Agent.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Agent.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\Entities\\Agent.cs",
+              "RelativeToolTip": "Models\\Entities\\Agent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:50:19.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250723035047_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Migrations\\20250723035047_initial migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250723035047_initial migration.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Migrations\\20250723035047_initial migration.cs",
+              "RelativeToolTip": "Migrations\\20250723035047_initial migration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:50:47.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AgentService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Services\\AgentService.cs",
+              "RelativeDocumentMoniker": "Services\\AgentService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Services\\AgentService.cs",
+              "RelativeToolTip": "Services\\AgentService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvxsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T04:13:42.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAgentService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Services\\IAgentService.cs",
+              "RelativeDocumentMoniker": "Services\\IAgentService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Services\\IAgentService.cs",
+              "RelativeToolTip": "Services\\IAgentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T04:08:32.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AgentsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Controllers\\AgentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AgentsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Controllers\\AgentsController.cs",
+              "RelativeToolTip": "Controllers\\AgentsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIA5wDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:45:05.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\Entities\\Property.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Property.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\Entities\\Property.cs",
+              "RelativeToolTip": "Models\\Entities\\Property.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:14:39.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TheRealEstate.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\TheRealEstate.csproj",
+              "RelativeDocumentMoniker": "TheRealEstate.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\TheRealEstate.csproj",
+              "RelativeToolTip": "TheRealEstate.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-23T04:06:41.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:42:26.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PriceEstimateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\Entities\\PriceEstimateResponse.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\PriceEstimateResponse.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TheRealEstate\\Models\\Entities\\PriceEstimateResponse.cs",
+              "RelativeToolTip": "Models\\Entities\\PriceEstimateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:17:13.764Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
