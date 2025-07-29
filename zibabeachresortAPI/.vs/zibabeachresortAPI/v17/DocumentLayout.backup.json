@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|c:\\users\\dell\\source\\repos\\zibabeachresortapi\\authservice\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|solutionrelative:authservice\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|c:\\users\\dell\\source\\repos\\zibabeachresortapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|c:\\users\\dell\\source\\repos\\zibabeachresortapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|c:\\users\\dell\\source\\repos\\zibabeachresortapi\\authservice\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|solutionrelative:authservice\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|c:\\users\\dell\\source\\repos\\zibabeachresortapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|c:\\users\\dell\\source\\repos\\zibabeachresortapi\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|solutionrelative:data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|c:\\users\\dell\\source\\repos\\zibabeachresortapi\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|solutionrelative:models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|c:\\users\\dell\\source\\repos\\zibabeachresortapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|c:\\users\\dell\\source\\repos\\zibabeachresortapi\\zibabeachresortapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|solutionrelative:zibabeachresortapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|c:\\users\\dell\\source\\repos\\zibabeachresortapi\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|solutionrelative:models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|c:\\users\\dell\\source\\repos\\zibabeachresortapi\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|solutionrelative:models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|c:\\users\\dell\\source\\repos\\zibabeachresortapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|c:\\users\\dell\\source\\repos\\zibabeachresortapi\\migrations\\20250606134640_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|solutionrelative:migrations\\20250606134640_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|c:\\users\\dell\\source\\repos\\zibabeachresortapi\\migrations\\20250616052958_addroletoemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11802378-955E-4AE4-9D88-6053EAC50CEB}|zibabeachresortAPI.csproj|solutionrelative:migrations\\20250616052958_addroletoemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\DATA\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "DATA\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\DATA\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "DATA\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:27:56.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T06:53:05.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\AuthService\\TokenProvider.cs",
+              "RelativeDocumentMoniker": "AuthService\\TokenProvider.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\AuthService\\TokenProvider.cs",
+              "RelativeToolTip": "AuthService\\TokenProvider.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAApwG8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:19:52.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\AuthService\\login.cs",
+              "RelativeDocumentMoniker": "AuthService\\login.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\AuthService\\login.cs",
+              "RelativeToolTip": "AuthService\\login.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:18:07.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAArwDwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:50:52.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:39:54.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T13:31:06.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250616052958_AddRoleToEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\Migrations\\20250616052958_AddRoleToEmployee.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250616052958_AddRoleToEmployee.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\Migrations\\20250616052958_AddRoleToEmployee.cs",
+              "RelativeToolTip": "Migrations\\20250616052958_AddRoleToEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:29:58.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "Models\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:17:12.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "updateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\Models\\updateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Models\\updateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\Models\\updateEmployeeDto.cs",
+              "RelativeToolTip": "Models\\updateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:53:54.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "zibabeachresortAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\zibabeachresortAPI.csproj",
+              "RelativeDocumentMoniker": "zibabeachresortAPI.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\zibabeachresortAPI.csproj",
+              "RelativeToolTip": "zibabeachresortAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T13:14:59.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\Models\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Models\\AddEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\Models\\AddEmployeeDto.cs",
+              "RelativeToolTip": "Models\\AddEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:19:03.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250606134640_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\Migrations\\20250606134640_initial migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250606134640_initial migration.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\Migrations\\20250606134640_initial migration.cs",
+              "RelativeToolTip": "Migrations\\20250606134640_initial migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:46:40.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\DATA\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DATA\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\zibabeachresortAPI\\DATA\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DATA\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:24:56.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
